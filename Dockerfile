@@ -5,7 +5,7 @@ ENV N8N_BASIC_AUTH_USER=admin
 ENV N8N_BASIC_AUTH_PASSWORD=admin123
 ENV N8N_HOST=0.0.0.0
 ENV N8N_PORT=8080
-ENV WEBHOOK_URL=https://n8n-railway-production.up.railway.app
+# ENV WEBHOOK_URL=https://<TU_DOMINIO>.up.railway.app
 
 EXPOSE 8080
 
